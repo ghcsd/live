@@ -1,0 +1,107 @@
+[
+	{
+		"id": "1",
+		"text": "央视频道",
+		"children": [
+			{
+				"text": "CCTV-1 综合",
+				"url": [
+					"https://tv.cctv.com/live/cctv1/",
+					"https://www.yangshipin.cn/tv/home?pid=600001859"
+				]
+			},
+			{ "text": "CCTV-2 财经", "url": ["https://tv.cctv.com/live/cctv2/"] },
+			{ "text": "CCTV-3 综艺", "url": ["https://tv.cctv.com/live/cctv3/"] },
+			{ "text": "CCTV-4 中文国际", "url": ["https://tv.cctv.com/live/cctv4/"] },
+			{ "text": "CCTV-5 体育", "url": ["https://tv.cctv.com/live/cctv5/"] },
+			{ "text": "CCTV-6 电影", "url": ["https://tv.cctv.com/live/cctv6/"] },
+			{ "text": "CCTV-7 军事农业", "url": ["https://tv.cctv.com/live/cctv7/"] },
+			{ "text": "CCTV-8 电视剧", "url": ["https://tv.cctv.com/live/cctv8/"] },
+			{ "text": "CCTV-9 纪录", "url": ["https://tv.cctv.com/live/cctv9/"] },
+			{ "text": "CCTV-10 科教", "url": ["https://tv.cctv.com/live/cctv10/"] },
+			{ "text": "CCTV-11 戏曲", "url": ["https://tv.cctv.com/live/cctv11/"] },
+			{ "text": "CCTV-12 社会与法", "url": ["https://tv.cctv.com/live/cctv12/"] },
+			{ "text": "CCTV-13 新闻", "url": ["https://tv.cctv.com/live/cctv13/"] },
+			{ "text": "CCTV-14 少儿", "url": ["https://tv.cctv.com/live/cctv14/"] },
+			{ "text": "CCTV-15 音乐", "url": ["https://tv.cctv.com/live/cctv15/"] },
+			{ "text": "CCTV-16 奥林匹克", "url": ["https://tv.cctv.com/live/cctv16/"] },
+			{ "text": "CCTV-17 农业农村", "url": ["https://tv.cctv.com/live/cctv17/"] },
+			{ "text": "CCTV-5+ 体育赛事", "url": ["https://tv.cctv.com/live/cctv5plus/"] },
+			{ "text": "CCTV Europe", "url": ["https://tv.cctv.com/live/cctveurope/"] },
+			{ "text": "CCTV America", "url": ["https://tv.cctv.com/live/cctvamerica/"] }
+		]
+	},
+	{
+		"id": "2",
+		"text": "卫视频道",
+		"children": [
+			{ "text": "北京卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002309"] },
+			{ "text": "江苏卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002521"] },
+			{ "text": "东方卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002483"] },
+			{ "text": "浙江卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002520"] },
+			{ "text": "湖南卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002475"] },
+			{ "text": "湖北卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002508"] },
+			{ "text": "广东卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002485"] },
+			{ "text": "广西卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002509"] },
+			{ "text": "黑龙江卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002498"] },
+			{ "text": "海南卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002506"] },
+			{ "text": "重庆卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002531"] },
+			{ "text": "深圳卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002481"] },
+			{ "text": "四川卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002516"] },
+			{ "text": "河南卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002525"] },
+			{ "text": "福建东南卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002484"] },
+			{ "text": "贵州卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002490"] },
+			{ "text": "江西卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002503"] },
+			{ "text": "辽宁卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002505"] },
+			{ "text": "安徽卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002532"] },
+			{ "text": "河北卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002493"] },
+			{ "text": "山东卫视", "url": ["https://www.yangshipin.cn/tv/home?pid=600002513"] }
+		]
+	},
+	{
+		"id": "3",
+		"text": "广东频道",
+		"children": [
+			{ "text": "广东卫视", "url": ["https://www.gdtv.cn/tvChannelDetail/43"] },
+			{ "text": "广东珠江", "url": ["https://www.gdtv.cn/tvChannelDetail/44"] },
+			{ "text": "广东新闻", "url": ["https://www.gdtv.cn/tvChannelDetail/45"] },
+			{ "text": "广东民生", "url": ["https://www.gdtv.cn/tvChannelDetail/48"] },
+			{ "text": "广东体育", "url": ["https://www.gdtv.cn/tvChannelDetail/47"] },
+			{ "text": "大湾区卫视", "url": ["https://www.gdtv.cn/tvChannelDetail/51"] },
+			{ "text": "大湾区卫视海外", "url": ["https://www.gdtv.cn/tvChannelDetail/46"] },
+			{ "text": "经济科教", "url": ["https://www.gdtv.cn/tvChannelDetail/49"] },
+			{ "text": "广东影视", "url": ["https://www.gdtv.cn/tvChannelDetail/53"] },
+			{ "text": "广东4k超高清", "url": ["https://www.gdtv.cn/tvChannelDetail/16"] },
+			{ "text": "广东少儿", "url": ["https://www.gdtv.cn/tvChannelDetail/54"] },
+			{ "text": "嘉佳卡通", "url": ["https://www.gdtv.cn/tvChannelDetail/66"] },
+			{ "text": "南方购物", "url": ["https://www.gdtv.cn/tvChannelDetail/42"] },
+			{ "text": "岭南戏曲", "url": ["https://www.gdtv.cn/tvChannelDetail/15"] },
+			{ "text": "现代教育", "url": ["https://www.gdtv.cn/tvChannelDetail/13"] },
+			{ "text": "广东移动", "url": ["https://www.gdtv.cn/tvChannelDetail/74"] },
+			{ "text": "荔枝台", "url": ["https://www.gdtv.cn/tvChannelDetail/100"] },
+			{ "text": "纪录片", "url": ["https://www.gdtv.cn/tvChannelDetail/94"] },
+			{ "text": "GRTN健康频道", "url": ["https://www.gdtv.cn/tvChannelDetail/99"] },
+			{ "text": "GRTN文化频道", "url": ["https://www.gdtv.cn/tvChannelDetail/75"] },
+			{ "text": "GRTN生活频道", "url": ["https://www.gdtv.cn/tvChannelDetail/102"] },
+			{ "text": "GRTN教育频道", "url": ["https://www.gdtv.cn/tvChannelDetail/104"] }
+		]
+	},
+	{
+		"id": "4",
+		"text": "其他直播",
+		"children": [
+			{
+				"text": "哔哩哔哩直播首页",
+				"url": "https://live.bilibili.com/"
+			},
+			{
+				"text": "抖音直播首页",
+				"url": "https://live.douyin.com/"
+			},
+			{
+				"text": "虎牙直播首页",
+				"url": "https://www.huya.com/"
+			}
+		]
+	}
+]
